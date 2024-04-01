@@ -1,0 +1,1 @@
+echo "print from main"
